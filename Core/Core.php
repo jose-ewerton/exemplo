@@ -41,7 +41,7 @@
                 $metodo = 'index';
             }
 
-            $caminho = 'exemplo/Controllers/'.$controller.'.php';
+            $caminho = 'exemplo-mvc-php-novo/Controllers/'.$controller.'.php';
 
             if((!file_exists($caminho)) && (!method_exists($controller, $metodo)))
             {
