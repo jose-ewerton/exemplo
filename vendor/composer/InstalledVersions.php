@@ -29,7 +29,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a75ffc4b3287daff249d9a657cd1d8e19fccbdff',
+    'reference' => 'c97a23aa6bba7b9527ed56dcd45d1622b9a47286',
     'name' => '__root__',
   ),
   'versions' => 
@@ -41,7 +41,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'a75ffc4b3287daff249d9a657cd1d8e19fccbdff',
+      'reference' => 'c97a23aa6bba7b9527ed56dcd45d1622b9a47286',
     ),
     'graham-campbell/result-type' => 
     array (
@@ -87,6 +87,22 @@ private static $installed = array (
       array (
       ),
       'reference' => 'dc3063ba22c2a1fd2f45ed856374d79114998f91',
+    ),
+    'twbs/bootstrap' => 
+    array (
+      'pretty_version' => 'v4.6.0',
+      'version' => '4.6.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '6ffb0b48e455430f8a5359ed689ad64c1143fac2',
+    ),
+    'twitter/bootstrap' => 
+    array (
+      'replaced' => 
+      array (
+        0 => 'v4.6.0',
+      ),
     ),
     'vlucas/phpdotenv' => 
     array (
