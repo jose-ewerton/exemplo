@@ -2,7 +2,7 @@
 <div id="header">
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light "> <!--bg-light adiciona um bg cinza-->
-        <a class="navbar-brand" href="#">
+        <a class="navbar-brand" href="http://localhost/exemplo-mvc-php-novo/">
           <img src="./Midias/logo2.svg" /> 
         </a>
 
@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav"><!--justify-content-end adiciona o menu a direita -->
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="http://localhost/exemplo-mvc-php-novo/home">Home</a>
+              <a class="nav-link active" aria-current="page" href="http://localhost/exemplo-mvc-php-novo/">Home</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="http://localhost/exemplo-mvc-php-novo/sobre">Sobre</a>
