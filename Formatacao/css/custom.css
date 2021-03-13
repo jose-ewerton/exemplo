@@ -27,3 +27,6 @@ html{
     color: var(--primary);
 }
 
+#slider{
+    margin-top: 100px;
+}
