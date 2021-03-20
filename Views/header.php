@@ -12,13 +12,13 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav"><!--justify-content-end adiciona o menu a direita -->
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="http://localhost/exemplo-mvc-php-novo/">Home</a>
+              <a class="nav-link active" aria-current="page" href=<?php echo "home"; ?>>Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost/exemplo-mvc-php-novo/sobre">Sobre</a>
+              <a class="nav-link" href=<?php echo "sobre"; ?>>Sobre</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="http://localhost/exemplo-mvc-php-novo/produto">Produtos</a>
+              <a class="nav-link" href=<?php echo "produto"; ?>>Produtos</a>
             </li>
           </ul>
         </div>

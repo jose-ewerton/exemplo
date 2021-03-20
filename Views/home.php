@@ -26,14 +26,3 @@
 
 
 
-<div id="slider">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6" style="background-color:red;">Um texto</div><!--fecha primeira coluna--> 
-            <div class="col-md-6"style="background-color:green;">Outro texto</div><!--fecha segunda coluna --> 
-        </div> <!-- fecha row -->
-    </div> <!--fecha o container-->
-</div> <!--slider -->
-
-
-
