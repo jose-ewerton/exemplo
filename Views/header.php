@@ -3,7 +3,8 @@
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light "> <!--bg-light adiciona um bg cinza-->
         <a class="navbar-brand" href="http://localhost/exemplo-mvc-php-novo/">
-          <img src="./Midias/logo2.svg" /> 
+          <!--<img src="./Midias/logo2.svg" /> --> 
+          <h1>Somos 4 Eletrônicos</h1>
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

@@ -2,7 +2,7 @@
 
     <header class="section-header">
       <h3>Produtos</h3>
-      <p>Texto introdutório</p>
+      <p>Texto introdutório algo novo</p>
     </header>
 
     <div class="container">
