@@ -32,7 +32,9 @@ html{
     color: var(--primary);
 }
 
-
+#h1{
+    color: blue;
+}
 
 
 
